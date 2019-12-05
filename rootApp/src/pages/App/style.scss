@@ -1,0 +1,19 @@
+.leftNav {
+  display: flex;
+  flex-direction: column;
+  background-color: #304156;
+  width: 100px;
+  text-align: center;
+  padding: 20px;
+  a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 0;
+  }
+}
+.container {
+  display: flex;
+  flex: 1 1 auto;
+  min-width: 0;
+  min-height: 0;
+}
